@@ -25,7 +25,7 @@ Decomposing the Toffoli gate felt like a recursive decomposition where I first n
 
 *Next, to decompose further, we break our V down into an A, B, C, and alpha gate using ZYZ decomposition.*
 
-![image2](https://miro.medium.com/v2/resize:fit:1400/1*d_I1vCjnGJfPMD9EnayzGA.png)
+![image2](https://i.stack.imgur.com/IyTru.png)
 
 ### CCCX Decomposition
 **Gate Depth:** 33  
